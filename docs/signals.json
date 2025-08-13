@@ -1,14 +1,14 @@
 [
   {
     "id": "real_yield",
-    "value": 1.88,
-    "z": -0.6523678150783984,
+    "value": 1.87,
+    "z": -0.7041659096197399,
     "desc": "10-year TIPS real yield; rising real yields pressure growth and long-duration assets."
   },
   {
     "id": "breakeven",
-    "value": 2.4,
-    "z": 1.1445872822681693,
+    "value": 2.38,
+    "z": 0.9148061466845684,
     "desc": "10-year inflation breakeven; higher breakevens imply rising inflation expectations."
   },
   {
@@ -43,8 +43,8 @@
   },
   {
     "id": "spx_rsi14",
-    "value": 56.77644011295833,
-    "z": -0.11392891311706604,
+    "value": 58.790663778619006,
+    "z": 0.007269917908708145,
     "desc": "S&P 500 RSI (14-day); measures momentum; overbought >70, oversold <30."
   },
   {
