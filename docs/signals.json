@@ -38,7 +38,7 @@
   {
     "id": "claims",
     "value": 218000.0,
-    "z": -0.43393340297882943,
+    "z": -0.45793839148777055,
     "desc": "Weekly initial unemployment claims; rising claims may signal labor market weakness."
   },
   {
@@ -49,14 +49,14 @@
   },
   {
     "id": "vix_level",
-    "value": 16.43,
-    "z": -0.09978698672444018,
+    "value": 21.66,
+    "z": 0.9948067932334156,
     "desc": "CBOE Volatility Index (VIX); higher levels signal market stress."
   },
   {
     "id": "vix_term",
-    "value": -2.9499999999999993,
-    "z": -0.8489058825698983,
+    "value": -1.1499999999999986,
+    "z": 0.35682061563369494,
     "desc": "VIX term structure (VIX minus VIX3M); positive spread indicates backwardation (stress)."
   }
 ]
