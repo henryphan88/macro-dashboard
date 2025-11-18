@@ -1,32 +1,32 @@
 [
   {
     "id": "real_yield",
-    "value": 1.83,
-    "z": -0.7081643510600892,
+    "value": 1.86,
+    "z": -0.535241662763215,
     "desc": "10-year TIPS real yield; rising real yields pressure growth and long-duration assets."
   },
   {
     "id": "breakeven",
     "value": 2.28,
-    "z": -0.21083800844060413,
+    "z": -0.2106167812316642,
     "desc": "10-year inflation breakeven; higher breakevens imply rising inflation expectations."
   },
   {
     "id": "usd",
-    "value": 121.7835,
-    "z": -0.4961378560457644,
+    "value": 121.363,
+    "z": -0.6486387323725028,
     "desc": "Trade-weighted USD (broad); a stronger dollar can be a headwind for risk assets and commodities."
   },
   {
     "id": "hy_oas",
-    "value": 3.09,
-    "z": -0.14306589482195234,
+    "value": 3.07,
+    "z": -0.19976468731518676,
     "desc": "High-yield credit option-adjusted spread; widening spreads suggest stress in credit markets."
   },
   {
     "id": "ig_oas",
-    "value": 0.84,
-    "z": -0.6453528720732842,
+    "value": 0.83,
+    "z": -0.7414423797925122,
     "desc": "Investment-grade credit spread; widening indicates risk aversion and tightening conditions."
   },
   {
@@ -38,7 +38,7 @@
   {
     "id": "claims",
     "value": 218000.0,
-    "z": -0.46742269097578154,
+    "z": -0.4757634413367957,
     "desc": "Weekly initial unemployment claims; rising claims may signal labor market weakness."
   },
   {
@@ -49,14 +49,14 @@
   },
   {
     "id": "vix_level",
-    "value": 20.0,
-    "z": 0.6342132472777228,
+    "value": 19.83,
+    "z": 0.5977642964865738,
     "desc": "CBOE Volatility Index (VIX); higher levels signal market stress."
   },
   {
     "id": "vix_term",
-    "value": -1.8500000000000014,
-    "z": -0.09103282014199986,
+    "value": -1.75,
+    "z": -0.02451610760246577,
     "desc": "VIX term structure (VIX minus VIX3M); positive spread indicates backwardation (stress)."
   }
 ]
