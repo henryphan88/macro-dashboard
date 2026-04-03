@@ -1,62 +1,56 @@
 [
   {
     "id": "real_yield",
-    "value": 2.0,
-    "z": 0.288237354107562,
+    "value": 2.02,
+    "z": 0.4068403586660581,
     "desc": "10-year TIPS real yield; rising real yields pressure growth and long-duration assets."
-  },
-  {
-    "id": "breakeven",
-    "value": 2.31,
-    "z": 0.0725063469673047,
-    "desc": "10-year inflation breakeven; higher breakevens imply rising inflation expectations."
   },
   {
     "id": "usd",
     "value": 120.8851,
-    "z": -0.5932072588336059,
+    "z": -0.5936385393053141,
     "desc": "Trade-weighted USD (broad); a stronger dollar can be a headwind for risk assets and commodities."
   },
   {
     "id": "hy_oas",
-    "value": 3.28,
-    "z": 0.7419785222127157,
+    "value": 3.16,
+    "z": 0.3596460788756769,
     "desc": "High-yield credit option-adjusted spread; widening spreads suggest stress in credit markets."
   },
   {
     "id": "ig_oas",
-    "value": 0.9,
-    "z": 0.3648576871243384,
+    "value": 0.87,
+    "z": 0.031963971543632654,
     "desc": "Investment-grade credit spread; widening indicates risk aversion and tightening conditions."
   },
   {
     "id": "net_liquidity",
-    "value": -867420616000000.0,
-    "z": -0.9013467996242214,
+    "value": -841044763000000.0,
+    "z": -0.7513761069618731,
     "desc": "Net liquidity = Fed balance sheet minus reverse repo and Treasury cash; rising liquidity supports risk assets."
   },
   {
     "id": "claims",
-    "value": 210000.0,
-    "z": -1.3198203193396902,
+    "value": 202000.0,
+    "z": -1.9916689273733235,
     "desc": "Weekly initial unemployment claims; rising claims may signal labor market weakness."
   },
   {
     "id": "spx_rsi14",
-    "value": 44.87030788696752,
-    "z": -0.7796238813413964,
+    "value": 47.29608670002404,
+    "z": -0.6258369106906063,
     "desc": "S&P 500 RSI (14-day); measures momentum; overbought >70, oversold <30."
   },
   {
     "id": "vix_level",
-    "value": 25.25,
-    "z": 1.4807348993131384,
+    "value": 24.54,
+    "z": 1.3288684515408047,
     "desc": "CBOE Volatility Index (VIX); higher levels signal market stress."
   },
   {
     "id": "vix_term",
-    "value": -0.3000000000000007,
-    "z": 0.87678039534691,
+    "value": -0.3200000000000003,
+    "z": 0.8622833520799046,
     "desc": "VIX term structure (VIX minus VIX3M); positive spread indicates backwardation (stress)."
   }
 ]
