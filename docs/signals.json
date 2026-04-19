@@ -2,31 +2,31 @@
   {
     "id": "real_yield",
     "value": 1.93,
-    "z": -0.10916286428350117,
+    "z": -0.1058544325059053,
     "desc": "10-year TIPS real yield; rising real yields pressure growth and long-duration assets."
   },
   {
     "id": "breakeven",
     "value": 2.36,
-    "z": 0.6797597983979922,
+    "z": 0.6823290173563473,
     "desc": "10-year inflation breakeven; higher breakevens imply rising inflation expectations."
   },
   {
     "id": "usd",
     "value": 118.8552,
-    "z": -1.2657419850684628,
+    "z": -1.2642094672444664,
     "desc": "Trade-weighted USD (broad); a stronger dollar can be a headwind for risk assets and commodities."
   },
   {
     "id": "hy_oas",
     "value": 2.86,
-    "z": -0.582354501683971,
+    "z": -0.5803602573314416,
     "desc": "High-yield credit option-adjusted spread; widening spreads suggest stress in credit markets."
   },
   {
     "id": "ig_oas",
     "value": 0.81,
-    "z": -0.6176165907514322,
+    "z": -0.6158398843684804,
     "desc": "Investment-grade credit spread; widening indicates risk aversion and tightening conditions."
   },
   {
@@ -44,19 +44,19 @@
   {
     "id": "spx_rsi14",
     "value": 72.85646110610324,
-    "z": 1.0230279809198928,
+    "z": 1.023821188443643,
     "desc": "S&P 500 RSI (14-day); measures momentum; overbought >70, oversold <30."
   },
   {
     "id": "vix_level",
     "value": 17.94,
-    "z": -0.046720979804714825,
+    "z": -0.04674248080123806,
     "desc": "CBOE Volatility Index (VIX); higher levels signal market stress."
   },
   {
     "id": "vix_term",
     "value": -2.8299999999999983,
-    "z": -0.6852028441893934,
+    "z": -0.683493530404759,
     "desc": "VIX term structure (VIX minus VIX3M); positive spread indicates backwardation (stress)."
   }
 ]
