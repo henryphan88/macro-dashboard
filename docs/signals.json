@@ -1,32 +1,32 @@
 [
   {
     "id": "real_yield",
-    "value": 2.06,
-    "z": 0.7769892397956907,
+    "value": 2.07,
+    "z": 0.8425746254863378,
     "desc": "10-year TIPS real yield; rising real yields pressure growth and long-duration assets."
   },
   {
     "id": "breakeven",
-    "value": 2.38,
-    "z": 0.8173974239599943,
+    "value": 2.4,
+    "z": 1.0421322956692467,
     "desc": "10-year inflation breakeven; higher breakevens imply rising inflation expectations."
   },
   {
     "id": "ig_oas",
-    "value": 0.73,
-    "z": -1.4003968706071803,
+    "value": 0.74,
+    "z": -1.2824904482909951,
     "desc": "Investment-grade credit spread; widening indicates risk aversion and tightening conditions."
   },
   {
     "id": "claims",
     "value": 215000.0,
-    "z": -0.7430138796542568,
+    "z": -0.7371432127759324,
     "desc": "Weekly initial unemployment claims; rising claims may signal labor market weakness."
   },
   {
     "id": "spx_rsi14",
-    "value": 68.10756772968108,
-    "z": 0.6720684670569019,
+    "value": 68.48500414904964,
+    "z": 0.7011177379953616,
     "desc": "S&P 500 RSI (14-day); measures momentum; overbought >70, oversold <30."
   }
 ]
