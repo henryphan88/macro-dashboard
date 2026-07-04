@@ -2,37 +2,37 @@
   {
     "id": "real_yield",
     "value": 2.25,
-    "z": 1.8750581074607025,
+    "z": 1.8765034747609013,
     "desc": "10-year TIPS real yield; rising real yields pressure growth and long-duration assets."
   },
   {
     "id": "breakeven",
     "value": 2.23,
-    "z": -0.8918140331742818,
+    "z": -0.8919723924328619,
     "desc": "10-year inflation breakeven; higher breakevens imply rising inflation expectations."
   },
   {
     "id": "usd",
     "value": 120.8866,
-    "z": -0.422566012369209,
+    "z": -0.4212364213444171,
     "desc": "Trade-weighted USD (broad); a stronger dollar can be a headwind for risk assets and commodities."
   },
   {
     "id": "hy_oas",
-    "value": 2.74,
-    "z": -0.8141700164119017,
+    "value": 2.75,
+    "z": -0.7798379530113879,
     "desc": "High-yield credit option-adjusted spread; widening spreads suggest stress in credit markets."
   },
   {
     "id": "ig_oas",
-    "value": 0.76,
-    "z": -0.9638354280411967,
+    "value": 0.75,
+    "z": -1.067487212500232,
     "desc": "Investment-grade credit spread; widening indicates risk aversion and tightening conditions."
   },
   {
     "id": "net_liquidity",
     "value": -873513437000000.0,
-    "z": -0.8454466832440202,
+    "z": -0.8435389157519363,
     "desc": "Net liquidity = Fed balance sheet minus reverse repo and Treasury cash; rising liquidity supports risk assets."
   },
   {
@@ -44,19 +44,19 @@
   {
     "id": "spx_rsi14",
     "value": 56.51384209755382,
-    "z": -0.009258619431628031,
+    "z": -0.01141611067721557,
     "desc": "S&P 500 RSI (14-day); measures momentum; overbought >70, oversold <30."
   },
   {
     "id": "vix_level",
     "value": 16.59,
-    "z": -0.44074447251657495,
+    "z": -0.4439413045520997,
     "desc": "CBOE Volatility Index (VIX); higher levels signal market stress."
   },
   {
     "id": "vix_term",
     "value": -2.5700000000000003,
-    "z": -0.44818542585899934,
+    "z": -0.4478593848362439,
     "desc": "VIX term structure (VIX minus VIX3M); positive spread indicates backwardation (stress)."
   }
 ]
