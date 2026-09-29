@@ -1,32 +1,32 @@
 [
   {
     "id": "real_yield",
-    "value": 2.85,
-    "z": 3.8874905901691355,
+    "value": 2.83,
+    "z": 3.7360224669249584,
     "desc": "10-year TIPS real yield; rising real yields pressure growth and long-duration assets."
   },
   {
     "id": "breakeven",
     "value": 2.34,
-    "z": 0.22739673291491602,
+    "z": 0.22715695128927424,
     "desc": "10-year inflation breakeven; higher breakevens imply rising inflation expectations."
   },
   {
     "id": "usd",
-    "value": 119.5133,
-    "z": -0.7149766192356517,
+    "value": 120.33,
+    "z": -0.46016885695218807,
     "desc": "Trade-weighted USD (broad); a stronger dollar can be a headwind for risk assets and commodities."
   },
   {
     "id": "hy_oas",
-    "value": 2.8,
-    "z": -0.4325359874308048,
+    "value": 2.93,
+    "z": -0.012092972505577828,
     "desc": "High-yield credit option-adjusted spread; widening spreads suggest stress in credit markets."
   },
   {
     "id": "ig_oas",
-    "value": 0.79,
-    "z": -0.4644496190141209,
+    "value": 0.81,
+    "z": -0.21866415309014478,
     "desc": "Investment-grade credit spread; widening indicates risk aversion and tightening conditions."
   },
   {
@@ -38,13 +38,13 @@
   {
     "id": "claims",
     "value": 197000.0,
-    "z": -1.799639190490281,
+    "z": -1.7882242399474448,
     "desc": "Weekly initial unemployment claims; rising claims may signal labor market weakness."
   },
   {
     "id": "spx_rsi14",
-    "value": 52.03330656132699,
-    "z": -0.28698439669499987,
+    "value": 50.813951627102846,
+    "z": -0.36893414984890555,
     "desc": "S&P 500 RSI (14-day); measures momentum; overbought >70, oversold <30."
   },
   {
