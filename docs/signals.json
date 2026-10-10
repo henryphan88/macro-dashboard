@@ -1,38 +1,38 @@
 [
   {
     "id": "real_yield",
-    "value": 2.92,
-    "z": 3.671970036801439,
+    "value": 2.87,
+    "z": 3.417101926415664,
     "desc": "10-year TIPS real yield; rising real yields pressure growth and long-duration assets."
   },
   {
     "id": "breakeven",
-    "value": 2.35,
-    "z": 0.35719003486846557,
+    "value": 2.33,
+    "z": 0.04352860320450207,
     "desc": "10-year inflation breakeven; higher breakevens imply rising inflation expectations."
   },
   {
     "id": "usd",
     "value": 121.3848,
-    "z": -0.13228613093554162,
+    "z": -0.1315051089045402,
     "desc": "Trade-weighted USD (broad); a stronger dollar can be a headwind for risk assets and commodities."
   },
   {
     "id": "hy_oas",
-    "value": 3.09,
-    "z": 0.5001994885114738,
+    "value": 3.15,
+    "z": 0.6926264663104632,
     "desc": "High-yield credit option-adjusted spread; widening spreads suggest stress in credit markets."
   },
   {
     "id": "ig_oas",
     "value": 0.82,
-    "z": -0.08759879855337858,
+    "z": -0.0868946064973263,
     "desc": "Investment-grade credit spread; widening indicates risk aversion and tightening conditions."
   },
   {
     "id": "net_liquidity",
     "value": -873507778000000.0,
-    "z": -0.7075725963331668,
+    "z": -0.7075076171787018,
     "desc": "Net liquidity = Fed balance sheet minus reverse repo and Treasury cash; rising liquidity supports risk assets."
   },
   {
@@ -43,20 +43,20 @@
   },
   {
     "id": "spx_rsi14",
-    "value": 60.90001518372301,
-    "z": 0.31465038819969077,
+    "value": 55.103953275508886,
+    "z": -0.07710764439464697,
     "desc": "S&P 500 RSI (14-day); measures momentum; overbought >70, oversold <30."
   },
   {
     "id": "vix_level",
-    "value": 15.08,
-    "z": -0.7504656680739186,
+    "value": 15.41,
+    "z": -0.6738286482319199,
     "desc": "CBOE Volatility Index (VIX); higher levels signal market stress."
   },
   {
     "id": "vix_term",
-    "value": -2.639999999999999,
-    "z": -0.3896863190048599,
+    "value": -2.669999999999998,
+    "z": -0.4053989102550756,
     "desc": "VIX term structure (VIX minus VIX3M); positive spread indicates backwardation (stress)."
   }
 ]
