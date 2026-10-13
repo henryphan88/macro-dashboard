@@ -38,25 +38,25 @@
   {
     "id": "claims",
     "value": 197000.0,
-    "z": -1.7660361283159642,
+    "z": -1.7665742071190507,
     "desc": "Weekly initial unemployment claims; rising claims may signal labor market weakness."
   },
   {
     "id": "spx_rsi14",
-    "value": 55.103953275508886,
-    "z": -0.0801111139266463,
+    "value": 54.59943856618433,
+    "z": -0.11411479458669567,
     "desc": "S&P 500 RSI (14-day); measures momentum; overbought >70, oversold <30."
   },
   {
     "id": "vix_level",
-    "value": 15.41,
-    "z": -0.6708672196494411,
+    "value": 14.84,
+    "z": -0.7974850054171478,
     "desc": "CBOE Volatility Index (VIX); higher levels signal market stress."
   },
   {
     "id": "vix_term",
-    "value": -2.669999999999998,
-    "z": -0.4011312868953923,
+    "value": -2.9299999999999997,
+    "z": -0.5602185456441015,
     "desc": "VIX term structure (VIX minus VIX3M); positive spread indicates backwardation (stress)."
   }
 ]
