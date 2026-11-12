@@ -20,13 +20,13 @@
   {
     "id": "hy_oas",
     "value": 3.34,
-    "z": 1.2159696497983927,
+    "z": 1.2140646993105344,
     "desc": "High-yield credit option-adjusted spread; widening spreads suggest stress in credit markets."
   },
   {
     "id": "ig_oas",
     "value": 0.91,
-    "z": 0.9879833116873735,
+    "z": 0.9861452260115597,
     "desc": "Investment-grade credit spread; widening indicates risk aversion and tightening conditions."
   },
   {
@@ -44,19 +44,19 @@
   {
     "id": "spx_rsi14",
     "value": 39.84961759903755,
-    "z": -1.065841128993693,
+    "z": -1.0646407720263253,
     "desc": "S&P 500 RSI (14-day); measures momentum; overbought >70, oversold <30."
   },
   {
     "id": "vix_level",
-    "value": 19.92,
-    "z": 0.3445412729940122,
+    "value": 19.46,
+    "z": 0.23991031543677024,
     "desc": "CBOE Volatility Index (VIX); higher levels signal market stress."
   },
   {
     "id": "vix_term",
-    "value": -0.9299999999999997,
-    "z": 0.6866477171511718,
+    "value": -1.1799999999999997,
+    "z": 0.5315624440520038,
     "desc": "VIX term structure (VIX minus VIX3M); positive spread indicates backwardation (stress)."
   }
 ]
